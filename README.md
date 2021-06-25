@@ -6,7 +6,7 @@
   
 🌱 Junior Developer interested in **Machine Learning & Deep Learning - CV, NLP** / **Data Science** / **Problem Solving**
   
-❓ Ask me about anything by my e-mail **bms2002@korea.ac.kr**!  
+❓ Ask me about anything by my e-mail **bms2002@korea.ac.kr**
  
 ## 🧑‍💻 My Skill Set  
 
