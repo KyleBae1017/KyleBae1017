@@ -1,14 +1,12 @@
 ### <div align="center">I'm @KyleBae1017 from Korea!</div>  
   
 
-- 🏫 Graduated Busan Science High School\
+🏫 Graduated Busan Science High School\
 🏫 Freshman of Korea University, Computer Science & Engineering  
   
-
-- 🌱 Junior Developer :  Studying ML/DL, Data Science, Algorithms and Data Structures  
+🌱 Junior Developer :  Studying ML/DL, Data Science, Algorithms and Data Structures  
   
-
-- ❓ Ask me about anything by my e-mail!  
+❓ Ask me about anything by my e-mail!  
   
 
 <br/>  
