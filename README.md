@@ -4,7 +4,7 @@
 🏫 Graduated **Busan Science High School**\
 🏫 Freshman of **Korea University, Computer Science & Engineering** 
   
-🌱 Junior Developer interested in **Machine Learning & Deep Learning - CV, NLP** / **Data Science** / **Problem Solving**
+🌱 Junior Developer interested in **Machine Learning & Deep Learning - CV, NLP, Bioinformatics** / **Data Science** / **Problem Solving**
   
 ❓ Ask me about anything by my e-mail **bms2002@korea.ac.kr**
 
