@@ -5,6 +5,7 @@
 🏫 Freshman of **Korea University, Computer Science & Engineering** 
   
 🌱 Junior Developer interested in **Machine Learning & Deep Learning - CV, NLP, Bioinformatics** / **Data Science** / **Problem Solving**
+
 ⭐️ Leader for **Korea Computer Science Academy (고려대학교 전산학술부)**   
   
 ❓ Ask me about anything by my e-mail **bms2002@korea.ac.kr**
