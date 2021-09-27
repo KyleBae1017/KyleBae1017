@@ -17,12 +17,19 @@
 ### Language  
 <img src="https://img.shields.io/badge/Python-3776AB?style=rounded-lg&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=rounded-lg&logo=C&logoColor=orange"/> <img src="https://img.shields.io/badge/C++-00599C?style=rounded-lg&logo=cplusplus&logoColor=white">
 ### Library
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=rounded-lg&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=rounded-lg&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=rounded-lg&logo=scikit-learn&logoColor=blue"/> 
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=rounded-lg&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=rounded-lg&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=rounded-lg&logo=scikit-learn&logoColor=blue"/> <img src="https://img.shields.io/badge/NumPy-013243?style=rounded-lg&logo=NumPy&logoColor=orange"/>
 ### Tools / OS
-<img src="https://img.shields.io/badge/Linux-FCC624?style=rounded-lg&logo=Linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=rounded-lg&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/Conda--Forge-000000?style=rounded-lg&logo=Conda-Forge&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=rounded-lg&logo=Anaconda&logoColor=white"/> 
+
+### Currently Developing with
+<img src="https://img.shields.io/badge/MacBook M1 Air-000000?style=rounded-lg&logo=macOS&logoColor=white"/>
+
+## 😎 Stats  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=KyleBae1017&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bms2002)
 
 ## 📞 Connect with me  
 <div align="center">
@@ -36,31 +43,6 @@
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## 😎 Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KyleBae1017&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align='center'> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bms2002"></div>
-
-<br/>  
-
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=KyleBae1017&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
 
 <br />
 
