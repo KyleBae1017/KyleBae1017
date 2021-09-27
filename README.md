@@ -1,12 +1,13 @@
-### <div align="center">👋 Hello, I'm @KyleBae1017 from Korea! 😆 </div>  
+### <div align="center">👋 Hello, I'm @KyleBae1017 from Korea! 🇰🇷 😆 </div>  
   
 
 🏫 Graduated **Busan Science High School**\
-🏫 Freshman of **Korea University, Computer Science & Engineering** 
+🐯 Freshman of **Korea University, Computer Science & Engineering** 
   
-🌱 Junior Developer interested in **Machine Learning & Deep Learning - CV, NLP, Bioinformatics** / **Data Science** / **Problem Solving**
+🌱 Junior developer interested in **Machine Learning & Deep Learning** - **CV, NLP, XAI** / **Bioinformatics** / **Data Science**\
+🔑 Also interested in **Problem Solving** / **Cryptography**
 
-⭐️ Leader for **Korea Computer Science Academy (고려대학교 전산학술부)**   
+⭐️ Currently I'm **Leader** for **Korea Computer Science Academy (고려대학교 전산학술부)**   
   
 ❓ Ask me about anything by my e-mail **bms2002@korea.ac.kr**
 
