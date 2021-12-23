@@ -2,10 +2,10 @@
   
 
 🏫 Graduated **Busan Science High School**\
-🐯 Freshman of **Korea University, Computer Science & Engineering** 
+🐯 Student of **Korea University, Computer Science & Engineering** 
   
-🌱 Junior developer interested in **Machine Learning & Deep Learning** - **CV, NLP, XAI** / **Bioinformatics** / **Data Science**\
-🔑 Also interested in **Problem Solving** / **Cryptography**
+🌱 Junior developer interested in **Machine Learning & Deep Learning** - **CV, NLP, XAI** / **Data Science**\
+🔑 Also interested in **Problem Solving** / **Information Sequrity**
 
 ⭐️ Currently I'm **Leader** for **Korea Computer Science Academy (고려대학교 전산학술부)**   
   
