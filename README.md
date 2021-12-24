@@ -32,7 +32,7 @@
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bms2002)
 
-## 📞 Connect with me  
+## 📬 Connect with me  
 <div align="center">
 <a href="https://github.com/KyleBae1017" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -42,7 +42,10 @@
 </a>
 <a href="https://www.kaggle.com/bms2002" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://velog.io/@kylebae1017" target="_blank">
+<img src=https://img.shields.io/badge/velog-%2300B388.svg?&style=for-the-badge&logo=micro.blog&logoColor=white alt=velog style="margin-bottom: 5px;" />
+</a> 
 </div>  
 
 <br />
