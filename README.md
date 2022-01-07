@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=rounded-lg&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=rounded-lg&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=rounded-lg&logo=scikit-learn&logoColor=blue"/> <img src="https://img.shields.io/badge/NumPy-013243?style=rounded-lg&logo=NumPy&logoColor=orange"/>
 ### Tools / OS
 <img src="https://img.shields.io/badge/Linux-FCC624?style=rounded-lg&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/Conda--Forge-000000?style=rounded-lg&logo=Conda-Forge&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=rounded-lg&logo=Anaconda&logoColor=white"/> 
+### Now I'm Studying
+<img src="https://img.shields.io/badge/HTML-E34F26?style=rounded-lg&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=rounded-lg&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=rounded-lg&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=rounded-lg&logo=React&logoColor=white"/> 
 
 ### Currently Developing with
 <img src="https://img.shields.io/badge/MacBook M1 Air-000000?style=rounded-lg&logo=macOS&logoColor=white"/>
