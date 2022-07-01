@@ -2,12 +2,13 @@
   
 
 🏫 Graduated **Busan Science High School**\
-🐯 Student of **Korea University, Computer Science & Engineering** 
+🐯 Student of **Korea University, Computer Science & Engineering** \
+📝 Undergraduate Intern in [**MLV Lab, Korea University, Professor Hyunwoo J. Kim**](https://www.hyunwoojkim.com/home)
   
 🌱 Junior developer interested in **Machine Learning & Deep Learning** - **CV, NLP, XAI** / **Data Science**\
 🔑 Also interested in **Problem Solving** / **Information Sequrity**
 
-⭐️ Currently I'm **Leader** for **Korea Computer Science Academy (고려대학교 전산학술부)**   
+⭐️ Currently I'm **Leader** for **Korea University Computer Science Academy (고려대학교 전산학술부)**   
   
 ❓ Ask me about anything by my e-mail **bms2002@korea.ac.kr**
 
