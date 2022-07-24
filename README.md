@@ -5,8 +5,8 @@
 🐯 Student of **Korea University, Computer Science & Engineering** \
 📝 Undergraduate Intern in [**MLV Lab, Korea University, Professor Hyunwoo J. Kim**](https://www.hyunwoojkim.com/home)
   
-🌱 Junior developer interested in **Machine Learning & Deep Learning** - **CV, NLP, XAI** / **Data Science**\
-🔑 Also interested in **Problem Solving** / **Information Sequrity**
+🌱 Junior developer interested in **Machine Learning & Deep Learning** - **CV, NLP, XAI**\
+🔑 Also interested in **Problem Solving** / **Cryptography**
 
 ⭐️ Currently I'm **Leader** for **Korea University Computer Science Academy (고려대학교 전산학술부)**   
   
