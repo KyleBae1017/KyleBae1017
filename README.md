@@ -18,7 +18,7 @@
 
 ### Programming Languages  
 <img src="https://img.shields.io/badge/Python-3776AB?style=rounded-lg&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=rounded-lg&logo=C&logoColor=orange"/> <img src="https://img.shields.io/badge/C++-00599C?style=rounded-lg&logo=cplusplus&logoColor=white">
-### ML/DL Frameworks
+### ML / DL
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=rounded-lg&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=rounded-lg&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=rounded-lg&logo=scikit-learn&logoColor=blue"/> <img src="https://img.shields.io/badge/NumPy-013243?style=rounded-lg&logo=NumPy&logoColor=orange"/>
 ### Tools / OS
 <img src="https://img.shields.io/badge/Linux-FCC624?style=rounded-lg&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/Conda--Forge-000000?style=rounded-lg&logo=Conda-Forge&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=rounded-lg&logo=Anaconda&logoColor=white"/> 
