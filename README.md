@@ -6,7 +6,7 @@
 📝 Undergraduate Intern in [**MLV Lab, Korea University, Professor Hyunwoo J. Kim**](https://www.hyunwoojkim.com/home)
   
 🌱 Junior developer interested in **Machine Learning & Deep Learning** - **CV, NLP, XAI**\
-🛠 Especially, nowadays i'm interested in **Graph Neural Networks, Safe AI**
+🛠 Especially, nowadays i'm interested in **Graph Neural Networks, Safe AI**\
 🔑 Also interested in **Problem Solving** / **Information Security** / **Programming Language**
 
 ⭐️ Currently I'm **Leader** for **Korea University Computer Science Academy (고려대학교 전산학술부)**   
