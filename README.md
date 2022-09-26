@@ -7,11 +7,11 @@
   
 🌱 Junior developer interested in **Machine Learning & Deep Learning** - **CV, NLP, XAI**\
 🛠 Especially, nowadays i'm interested in **Graph Neural Networks, Safe AI**\
-🔑 Also interested in **Problem Solving** / **Information Security** / **Programming Language**
+🔑 Also interested in **Problem Solving** / **Cryptosystem** / **Theory of Programming Language**
 
 ⭐️ Currently I'm **Leader** for **Korea University Computer Science Academy (고려대학교 전산학술부)**   
   
-❓ Ask me about anything by my e-mail **bms2002@korea.ac.kr**
+❓ Ask me about anything by my e-mail **kyle9103@gmail.com**
 
 📄 You can check my Curriculum Vitae in **KyleBae1017/MyCV**.
  
