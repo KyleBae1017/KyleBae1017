@@ -1,15 +1,18 @@
-### <div align="center">Hello, I'm @KyleBae1017 from Korea.</div>  
+## <div align="left">🙇‍♂️ Hello, I'm @KyleBae1017 from South Korea.</div>  
   
+### Education
+- Graduated Busan Science High School
+- Sophomore of Korea University, Computer Science & Engineering
+- Double majoring 
 
-- Graduated **Busan Science High School**
-- Student of **Korea University, Computer Science & Engineering** 
+### I'm currently working on...
 - Undergraduate Intern in [**MLV Lab, Korea University, Professor Hyunwoo J. Kim**](https://www.hyunwoojkim.com/home)
+- **Leader** for **Korea University Computer Science Academy (고려대학교 전산학술부)** 
   
 🌱 Junior developer interested in **Machine Learning & Deep Learning** - **CV, NLP, XAI**\
 🛠 Especially, nowadays i'm interested in **Graph Neural Networks, Safe AI**\
 🔑 Also interested in **Problem Solving** / **Cryptosystem** / **Theory of Programming Language**
 
-⭐️ Currently I'm **Leader** for **Korea University Computer Science Academy (고려대학교 전산학술부)**   
   
 ❓ Ask me about anything by my e-mail **kyle9103@gmail.com**
 
