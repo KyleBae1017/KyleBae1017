@@ -16,7 +16,7 @@
 ## I'm interested in ... 
 - Machine Learning & Deep Learning - nowadays i'm interested in Graph Neural Networks, Safe AI | 머신러닝 및 딥러닝 (GNNs, Safe AI)
 - Programming Language | 프로그래밍 언어론
-- Mathematics for ML / DL / Computer Science | 머신러닝 및 딥러닝, 컴퓨터과학과 관련된 수학 
+- Mathematics for ML / DL / Computer Science | 머신러닝 및 딥러닝, 컴퓨터과학과 관련된 수학 이론
 
 ## In detail, ...
 - Ask me about anything by my e-mail. (kyle9103@gmail.com)
