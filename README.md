@@ -19,7 +19,7 @@
 - Mathematics for ML / DL / Computer Science | 머신러닝 및 딥러닝, 컴퓨터과학과 관련된 수학 이론 (대수학, 해석학, 통계학, 이산수학 등)
 
 ## In detail, ...
-- Ask me about anything by my e-mail. (kyle9103@gmail.com)
+- Ask me about anything by my e-mail. (kyle9103@gmail.com / bms2002@korea.ac.kr)
 - You can check my curriculum vitae in [KyleBae1017/MyCV](https://github.com/KyleBae1017/MyCV).
  
 ## Skill Set  
