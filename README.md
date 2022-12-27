@@ -7,20 +7,20 @@
 
 ## I'm currently working on...
 - President of Korea University Computer Science Academy | 고려대학교 정보대학 학회 전산학술부 회장
-- Co-founder of AIKU; AI academy in KU | 고려대학교 AI 및 딥러닝 학회 AIKU 공동 설립자 및 운영진
+- Co-founder of AIKU; AI academy in KU | 고려대학교 딥러닝 학회 AIKU 공동 설립자 및 운영진
+- Undergraduate Intern in [MLV Lab, Korea University, Professor Hyunwoo J. Kim](https://www.hyunwoojkim.com/home) | 고려대학교 MLV Lab 학부 연구생
 
 ## I worked on ...
-- Undergraduate Intern in [MLV Lab, Korea University, Professor Hyunwoo J. Kim](https://www.hyunwoojkim.com/home) | 고려대학교 MLV Lab 학부 연구생 (2022.07 ~ 2022.08)
 - Some toy projects for assignments and practices
   
 ## I'm interested in ... 
-- Machine Learning & Deep Learning - nowadays i'm interested in Graph Neural Networks, Safe AI | 머신러닝 및 딥러닝 (GNNs, Safe AI)
-- Programming Language | 프로그래밍 언어론
-- Mathematics for ML / DL / Computer Science | 머신러닝 및 딥러닝, 컴퓨터과학과 관련된 수학 이론
+- Machine Learning & Deep Learning - nowadays i'm interested in Graph Neural Networks, Safe AI, Generative Models | 머신러닝 및 딥러닝 (GNNs, Safe AI, 생성 모델)
+- Programming Language | 프로그래밍 언어론 (및 프로그래밍 언어론적 관점에서의 ML/DL)
+- Mathematics for ML / DL / Computer Science | 머신러닝 및 딥러닝, 컴퓨터과학과 관련된 수학 이론 (대수학, 해석학, 통계학, 이산수학 등)
 
 ## In detail, ...
 - Ask me about anything by my e-mail. (kyle9103@gmail.com)
-- You can check my Curriculum Vitae in [KyleBae1017/MyCV](https://github.com/KyleBae1017/MyCV).
+- You can check my curriculum vitae in [KyleBae1017/MyCV](https://github.com/KyleBae1017/MyCV).
  
 ## Skill Set  
 
