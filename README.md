@@ -34,8 +34,6 @@
 <img src="https://img.shields.io/badge/MacBook M1 Air-000000?style=rounded-lg&logo=macOS&logoColor=white"/>
 
 ## Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=KyleBae1017&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bms2002)
