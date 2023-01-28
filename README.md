@@ -37,6 +37,7 @@
 <br/>  
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bms2002)
+<img src="https://github-readme-stats.vercel.app/api?username=kylebae1017&show_icons=true"/>
 
 ## Connect with me  
 <div align="left">
