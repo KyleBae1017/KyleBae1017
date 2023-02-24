@@ -2,7 +2,7 @@
   
 ## Education
 - Graduated @ Busan Science High School | 부산과학고등학교 졸업
-- Sophomore @ Korea University, Dept. of Computer Science & Engineering | 고려대학교 컴퓨터학과 2학년
+- Junior @ Korea University, Dept. of Computer Science & Engineering | 고려대학교 컴퓨터학과 3학년
 - Double majoring @ Dept. of Mathematics | 수학과 이중전공
 
 ## I'm currently working on...
