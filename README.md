@@ -8,6 +8,7 @@
 ## I'm currently working on...
 - President of Korea University Computer Science Academy | 고려대학교 정보대학 학회 전산학술부 회장
 - Co-founder of AIKU; AI academy in KU | 고려대학교 딥러닝 학회 AIKU 공동 설립자 및 운영진
+- AI Instructor in DevKor; Korea University Software Development Academy | 고려대학교 소프트웨어 개발 학회 DevKor 회원 및 AI 스터디 강의 진행
 - Undergraduate Intern in [MLV Lab, Korea University, Professor Hyunwoo J. Kim](https://www.hyunwoojkim.com/home) | 고려대학교 MLV Lab 학부 연구생
 
 ## I worked on ...
