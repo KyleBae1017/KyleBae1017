@@ -15,7 +15,7 @@
 - Some toy projects for assignments and practices
   
 ## I'm interested in ... 
-- Machine Learning & Deep Learning - nowadays i'm interested in Graph Neural Networks, Safe AI, Generative Models | 머신러닝 및 딥러닝 (GNNs, Safe AI, 생성 모델)
+- Machine Learning & Deep Learning - nowadays i'm interested in **Graph Neural Networks**, Safe AI, Generative Models | 머신러닝 및 딥러닝 (GNNs, Safe AI, 생성 모델)
 - Programming Language | 프로그래밍 언어론 (및 프로그래밍 언어론적 관점에서의 ML/DL)
 - Mathematics for ML / DL / Computer Science | 머신러닝 및 딥러닝, 컴퓨터과학과 관련된 수학 이론 (대수학, 해석학, 통계학, 이산수학 등)
 
