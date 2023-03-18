@@ -2,13 +2,13 @@
   
 ## Education
 - Graduated @ Busan Science High School | 부산과학고등학교 졸업
-- Junior @ Korea University, Dept. of Computer Science & Engineering | 고려대학교 컴퓨터학과 3학년
-- Double majoring @ Dept. of Mathematics | 수학과 이중전공
+- Junior @ Korea University, Dept. of Computer Science & Engineering | 고려대학교 정보대학 컴퓨터학과 3학년 재학 중
+- Double majoring @ Dept. of Mathematics | 이과대학 수학과 이중전공
 
 ## I'm currently working on...
 - President of Korea University Computer Science Academy | 고려대학교 정보대학 학회 전산학술부 회장
 - Co-founder of AIKU; AI academy in KU | 고려대학교 딥러닝 학회 AIKU 공동 설립자 및 운영진
-- AI Instructor in DevKor; Korea University Software Development Academy | 고려대학교 소프트웨어 개발 학회 DevKor 회원 및 AI 스터디 강의 진행
+- AI Instructor in DevKor; Korea University Software Development Academy | 고려대학교 소프트웨어 개발 학회 DevKor에서 AI 스터디 강의 진행
 - Undergraduate Intern in [MLV Lab, Korea University, Professor Hyunwoo J. Kim](https://www.hyunwoojkim.com/home) | 고려대학교 MLV Lab 학부 연구생
 
 ## I worked on ...
@@ -16,6 +16,7 @@
   
 ## I'm interested in ... 
 - Machine Learning & Deep Learning - nowadays i'm interested in **Graph Neural Networks**, Safe AI, Generative Models | 머신러닝 및 딥러닝 (GNNs, Safe AI, 생성 모델)
+- Especially in GNNs, I'm intersted in **Graph Representation Learning, Multi-modal Models with Graph Modality (ex. KGQA, Scene graphs)**
 - Programming Language | 프로그래밍 언어론 (및 프로그래밍 언어론적 관점에서의 ML/DL)
 - Mathematics for ML / DL / Computer Science | 머신러닝 및 딥러닝, 컴퓨터과학과 관련된 수학 이론 (대수학, 해석학, 통계학, 이산수학 등)
 
@@ -30,7 +31,7 @@
 ### ML / DL
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=rounded-lg&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=rounded-lg&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=rounded-lg&logo=scikit-learn&logoColor=blue"/> <img src="https://img.shields.io/badge/NumPy-013243?style=rounded-lg&logo=NumPy&logoColor=orange"/>
 ### Now I'm Studying
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=rounded-lg&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/node.js-339933?style=rounded-lg&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=rounded-lg&logo=pytorch&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=rounded-lg&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/node.js-339933?style=rounded-lg&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=rounded-lg&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/PyG-3C2179?style=rounded-lg&logo=pyg&logoColor=white"/> 
 ### Currently Developing with
 <img src="https://img.shields.io/badge/MacBook M1 Air-000000?style=rounded-lg&logo=macOS&logoColor=white"/>
 
