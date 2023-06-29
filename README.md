@@ -16,7 +16,7 @@
   
 ## I'm interested in ... 
 - Machine Learning & Deep Learning - nowadays i'm interested in **Graph Neural Networks**, Generative Models | 머신러닝 및 딥러닝 (GNNs, 생성 모델)
-- Especially in GNNs, I'm intersted in **Graph Representation Learning, Multi-modal learning with Graph Modality (ex. KGQA, Scene graphs)**
+- Especially in GNNs, I'm intersted in **Graph Representation Learning, Multi-modal Applications with Graph Modality (ex. KGQA, Scene graphs)**
 - Mathematics for ML / DL / Computer Science | 머신러닝 및 딥러닝, 컴퓨터과학과 관련된 수학 이론 (최적화 이론, 선형대수학 등)
 
 ## In detail, ...
