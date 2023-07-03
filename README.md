@@ -21,7 +21,7 @@
 
 ## In detail, ...
 - Ask me about anything by my e-mail. (kyle9103@gmail.com / bms2002@korea.ac.kr)
-- You can check my curriculum vitae in [KyleBae1017/MyCV](https://github.com/KyleBae1017/MyCV). (Updated at 2023/6/27)
+- You can check my curriculum vitae in [KyleBae1017/MyCV](https://github.com/KyleBae1017/MyCV/blob/main/CV_BaeMinSeong.pdf). (Updated at 2023/6/27)
  
 ## Skill Set  
 
