@@ -6,10 +6,9 @@
 - Double majoring @ Dept. of Mathematics | 이과대학 수학과 이중전공
 
 ## I'm currently working on...
-- President of Korea University Computer Science Academy | 고려대학교 정보대학 학회 전산학술부 회장
-- Co-founder of AIKU; AI academy in KU | 고려대학교 딥러닝 학회 AIKU 공동 설립자 및 운영진
-- AI Instructor in DevKor; Korea University Software Development Academy | 고려대학교 소프트웨어 개발 학회 DevKor AI 스터디 강사
-- Undergraduate Intern in [MLV Lab, Korea University, Professor Hyunwoo J. Kim](https://www.hyunwoojkim.com/home) | 고려대학교 MLV Lab 학부 연구생
+- President of **KUCSA**; Korea University Computer Science Academy | 고려대학교 정보대학 학회 전산학술부 회장
+- Co-founder of **AIKU**; AI academy in KU | 고려대학교 딥러닝 학회 AIKU 공동 설립자 및 운영진
+- Undergraduate Intern in [**MLV Lab**](https://www.hyunwoojkim.com/home) in Korea University, advised by Professor Hyunwoo J. Kim | 고려대학교 MLV Lab 학부 연구생
 
 ## I worked on ...
 - Some toy projects for assignments and practices
