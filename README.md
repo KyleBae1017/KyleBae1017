@@ -2,7 +2,7 @@
   
 ## Education
 - Graduated @ Busan Science High School | 부산과학고등학교 졸업
-- Junior @ Korea University, Dept. of Computer Science & Engineering | 고려대학교 정보대학 컴퓨터학과 3학년 재학 중
+- Junior @ Korea University, Dept. of Computer Science & Engineering | 고려대학교 정보대학 컴퓨터학과 3학년 재학 중 (현재 휴학 중)
 - Double majoring @ Dept. of Mathematics | 이과대학 수학과 이중전공
 
 ## I'm currently working on...
@@ -14,9 +14,8 @@
 - Some toy projects for assignments and practices
   
 ## I'm interested in ... 
-- Machine Learning & Deep Learning - nowadays i'm interested in **Graph Neural Networks**, Generative Models | 머신러닝 및 딥러닝 (GNNs, 생성 모델)
-- Especially in GNNs, I'm intersted in **Graph Representation Learning, Multi-modal Applications with Graph Modality (ex. KGQA, Scene graphs)**
-- Mathematics for ML / DL / Computer Science | 머신러닝 및 딥러닝, 컴퓨터과학과 관련된 수학 이론 (최적화 이론, 선형대수학 등)
+- Machine Learning & Deep Learning - nowadays i'm interested in **Graph Neural Networks**, **Diffusion Models** | 머신러닝 및 딥러닝 (GNNs, Diffusion)
+- Mathematics for ML / DL / Computer Science | 머신러닝 및 딥러닝, 컴퓨터과학과 관련된 수학 이론 (통계학, 최적화 이론, 해석학, 선형대수학 등)
 
 ## In detail, ...
 - Ask me about anything by my e-mail. (kyle9103@gmail.com / bms2002@korea.ac.kr)
