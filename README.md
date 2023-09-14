@@ -14,7 +14,7 @@
 - Some toy projects for assignments and practices
   
 ## I'm interested in ... 
-- Machine Learning & Deep Learning - nowadays i'm interested in **Graph Neural Networks**, **Diffusion Models** | 머신러닝 및 딥러닝
+- Machine Learning & Deep Learning - nowadays i'm interested in **Graph Neural Networks**, **Generative Models** | 머신러닝 및 딥러닝 
 - Mathematics for ML / Computer Science | 머신 러닝, 컴퓨터과학과 관련된 수학 이론 (통계학, 최적화 이론, 해석학, 선형대수학 등)
 
 ## In detail, ...
