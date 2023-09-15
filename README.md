@@ -1,21 +1,21 @@
 # 😊 Hello, I'm Minseong Bae (@KyleBae1017) !
   
 ## Education
-- Graduated @ Busan Science High School | 부산과학고등학교 졸업
-- Junior @ Korea University, Dept. of Computer Science & Engineering | 고려대학교 정보대학 컴퓨터학과 3학년 재학 중 (현재 휴학 중)
-- Double majoring @ Dept. of Mathematics | 이과대학 수학과 이중전공
+- Graduated @ Busan Science High School
+- Junior @ Korea University, Dept. of Computer Science & Engineering
+- Double majoring @ Dept. of Mathematics
 
 ## I'm currently working on...
-- President of **KUCSA**; Korea University Computer Science Academy | 고려대학교 정보대학 학회 전산학술부 회장
-- Co-founder of **AIKU**; AI academy in KU | 고려대학교 딥러닝 학회 AIKU 공동 설립자 및 운영진
-- Undergraduate Intern in [**MLV Lab**](https://www.hyunwoojkim.com/home) in Korea University, advised by Professor Hyunwoo J. Kim | 고려대학교 MLV Lab 학부 연구생
+- President of **KUCSA**; Korea University Computer Science Academy (전산학술부)
+- Co-founder of **AIKU**; AI academy in KU
+- Undergraduate Researcher in [**MLV Lab**](https://www.hyunwoojkim.com/home) in Korea University, advised by Professor Hyunwoo J. Kim
 
 ## I worked on ...
 - Some toy projects for assignments and practices
   
 ## I'm interested in ... 
-- Machine Learning & Deep Learning - nowadays i'm interested in **Graph Neural Networks**, **Generative Models** | 머신러닝 및 딥러닝 
-- Mathematics for ML / Computer Science | 머신 러닝, 컴퓨터과학과 관련된 수학 이론 (통계학, 최적화 이론, 해석학, 선형대수학 등)
+- Machine Learning & Deep Learning; nowadays i'm interested in **machine learning on graphs**, **generative models**, and **computer vision**
+- Mathematics for ML / Computer Science (Statistics, Analysis, Optimization Theory, Linear Algebra, ...)
 
 ## In detail, ...
 - Ask me about anything by my e-mail. (kyle9103@gmail.com / bms2002@korea.ac.kr)
