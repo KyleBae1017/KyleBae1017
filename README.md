@@ -15,7 +15,7 @@
   
 ## I'm interested in ... 
 - Machine Learning & Deep Learning; nowadays i'm interested in **machine learning on graphs**, **generative models**, and **computer vision**
-- Mathematics for ML / Computer Science (Statistics, Analysis, Optimization Theory, Linear Algebra, ...)
+- Mathematics for ML / DL / Computer Science (Statistics, Analysis, Optimization Theory, Linear Algebra, ...)
 
 ## In detail, ...
 - Ask me about anything by my e-mail. (kyle9103@gmail.com / bms2002@korea.ac.kr)
