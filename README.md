@@ -15,6 +15,7 @@
   
 ## I'm interested in ... 
 - Machine Learning & Deep Learning; nowadays i'm interested in **machine learning on graphs**, **generative models**, and **computer vision**
+- In detail, i'm studying graph representation learning, graph generation, diffusion models and inverse problem with diffusion.
 - Mathematics for ML / DL / Computer Science (Statistics, Analysis, Optimization Theory, Linear Algebra, ...)
 
 ## In detail, ...
