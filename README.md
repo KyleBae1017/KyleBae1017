@@ -1,4 +1,4 @@
-# 😊 Hello, I'm Minseong Bae (@KyleBae1017) !
+# 😊 Hello, I'm Minseong Bae (@KyleBae1017)!
   
 ## Education
 - Graduated @ Busan Science High School
