@@ -7,7 +7,7 @@
 
 ## I'm currently working on...
 - President of **KUCSA**; Korea University Computer Science Academy (전산학술부)
-- Undergraduate Researcher in [**MLV Lab**](https://www.hyunwoojkim.com/home) in Korea University, advised by Professor Hyunwoo J. Kim
+- Undergraduate researcher in [**MLV Lab**](https://www.hyunwoojkim.com/home) in Korea University, advised by Professor Hyunwoo J. Kim
 - Member and AI Instructor of **DevKor**; software development club in Korea University
 
 ## I worked on ...
@@ -15,7 +15,7 @@
 - Some toy projects for assignments and practices
   
 ## I'm interested in ... 
-- Machine Learning & Deep Learning; nowadays i'm interested in **machine learning on graphs**, **generative models**, and **computer vision**
+- Machine learning & deep learning; nowadays i'm interested in **machine learning on graphs**, **generative models**, and **computer vision**
 - In detail, i'm studying graph representation learning, graph generation, diffusion models and how to solve inverse problem with diffusion.
 - Mathematics for ML / DL / Computer Science (Statistics, Analysis, Optimization Theory, Linear Algebra, ...)
 
