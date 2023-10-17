@@ -8,7 +8,7 @@
 ## I'm currently working on...
 - President of **KUCSA**; Korea University Computer Science Academy (전산학술부)
 - Undergraduate Researcher in [**MLV Lab**](https://www.hyunwoojkim.com/home) in Korea University, advised by Professor Hyunwoo J. Kim
-- Member and AI Instructor of **DevKor**; Software development club in Korea University
+- Member and AI Instructor of **DevKor**; software development club in Korea University
 
 ## I worked on ...
 - Co-founder of **AIKU**; AI academic club in Korea University
