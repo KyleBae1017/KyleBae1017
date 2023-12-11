@@ -15,10 +15,10 @@
 - Some toy projects for assignments and practices
   
 ## I'm interested in ... 
-- Machine learning & deep learning; i'm mainly interested in **machine learning on graphs** and **generative models** but not limited to them.
-- Nowadays, i'm highly interested in these keywords; (graph) foundation models, knowledge graphs, diffusion models, inverse problem, molecule generation, AI4Science, etc.
+- Machine learning & deep learning; I'm mainly interested in **machine learning on graphs** and **generative models** but not limited to them.
+- Nowadays, I'm highly interested in these keywords; (graph) foundation models, knowledge graphs, diffusion models, inverse problem, molecule generation, AI4Science, etc.
 - I usually have huge interests in **multi-modal**, **efficient** and **theoretically well-defined** approaches with various deep learning topics.
-- So I'm also very enthusiastic for studying **mathematical backgrounds** with deep learning such as numerical optimization, analysis, statistics, etc.
+- So I'm also very enthusiastic for studying **mathematical backgrounds** with deep learning such as numerical optimization, graph theory, analysis, statistics & stochastic processes, ODEs/SDEs, etc.
 
 ## In detail, ...
 - Ask me about anything by my e-mail. (kyle9103@gmail.com / bms2002@korea.ac.kr)
