@@ -40,17 +40,11 @@
 
 ## Connect with me  
 <div align="left">
-<a href="https://github.com/KyleBae1017" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/minseong-bae-573745276/">
-<img src=https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+<img src=https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
 <a href="https://velog.io/@kylebae1017" target="_blank">
-<img src=https://img.shields.io/badge/velog-%2300B388.svg?&style=for-the-badge&logo=micro.blog&logoColor=white alt=velog style="margin-bottom: 5px;" />
-</a> 
+<img src=https://img.shields.io/badge/velog-%2300B388.svg?&style=for-the-badge&logo=micro.blog&logoColor=white alt=velog style="margin-bottom: 5px;" /></a> 
 </div>  
-
 <br />
 
 
