@@ -8,16 +8,16 @@
 ## I'm currently working on...
 - President of **KUCSA**; Korea University Computer Science Academy (전산학술부)
 - Undergraduate researcher in [**MLV Lab**](https://www.hyunwoojkim.com/home) in Korea University, advised by Professor Hyunwoo J. Kim
-- Member and AI Instructor of **DevKor**; software development club in Korea University
+- Member of **DevKor**; software development club in Korea University
 
 ## I worked on ...
 - Co-founder of **AIKU**; AI academic club in Korea University
 - Some toy projects for assignments and practices
   
 ## I'm interested in ... 
-- Machine learning & deep learning; nowadays i'm interested in **machine learning on graphs**, **generative models**, and **computer vision**
-- In detail, i'm studying graph representation learning, graph generation, diffusion models and how to solve inverse problem with diffusion.
-- Mathematics for ML / DL / Computer Science (Statistics, Analysis, Optimization Theory, Linear Algebra, ...)
+- Machine learning & deep learning; i'm mainly interested in **machine learning on graphs** and **generative models** but not limited to it.
+- Nowadays, i'm highly interested in these keywords; (graph) foundation models, knowledge graphs, diffusion models, inverse problem, molecule generation, AI4Science, etc.
+- I usually have huge interests in **multi-modal**, **efficient** and **theoretically well-defined** approaches with various deep learning topics.
 
 ## In detail, ...
 - Ask me about anything by my e-mail. (kyle9103@gmail.com / bms2002@korea.ac.kr)
@@ -45,9 +45,6 @@
 </a>
 <a href="https://www.linkedin.com/in/minseong-bae-573745276/">
 <img src=https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/bae_ms_1017" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://velog.io/@kylebae1017" target="_blank">
 <img src=https://img.shields.io/badge/velog-%2300B388.svg?&style=for-the-badge&logo=micro.blog&logoColor=white alt=velog style="margin-bottom: 5px;" />
