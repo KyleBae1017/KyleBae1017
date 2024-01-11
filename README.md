@@ -15,7 +15,7 @@
 - Some toy projects for assignments and practices
   
 ## I'm interested in ... 
-- Machine learning & deep learning; I'm mainly interested in **machine learning on graphs** and **generative models** but not limited to them.
+- Machine learning & deep learning; I'm mainly interested in **machine learning on graphs**, **generative models**, and **multimodal AI** but not limited to them.
 - Nowadays, I'm highly interested in these keywords; (graph) foundation models, prompt tuning, knowledge graphs, diffusion models, inverse problem, molecule generation, AI4Science, etc.
 - I usually have huge interests in **multi-modal**, **efficient** and **theoretically well-defined** approaches with various deep learning topics.
 - So I'm also very enthusiastic for studying **mathematical backgrounds** with deep learning such as numerical optimization, graph theory, analysis, statistics & stochastic processes, ODEs/SDEs, etc.
@@ -26,12 +26,10 @@
  
 ## Skill Set  
 
-### Programming Language
+### Programming Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=rounded-lg&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=rounded-lg&logo=C&logoColor=orange"/> <img src="https://img.shields.io/badge/C++-00599C?style=rounded-lg&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/OCaml-EC6813?style=rounded-lg&logo=OCaml&logoColor=white"/>
-### Library \& Framework
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=rounded-lg&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=rounded-lg&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=rounded-lg&logo=scikit-learn&logoColor=blue"/> <img src="https://img.shields.io/badge/NumPy-013243?style=rounded-lg&logo=NumPy&logoColor=orange"/>
-### Studying
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=rounded-lg&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/PyG-3C2179?style=rounded-lg&logo=pyg&logoColor=white"/> 
+### Frameworks \& Tools
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=rounded-lg&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=rounded-lg&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=rounded-lg&logo=scikit-learn&logoColor=blue"/> <img src="https://img.shields.io/badge/NumPy-013243?style=rounded-lg&logo=NumPy&logoColor=orange"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=rounded-lg&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/PyG-3C2179?style=rounded-lg&logo=pyg&logoColor=white"/> 
 
 ## Stats  
 <br/>  
