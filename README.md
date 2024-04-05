@@ -5,20 +5,18 @@
 - Junior @ Korea University, Dept. of Computer Science & Engineering
 - Double majoring @ Dept. of Mathematics
 
-## I'm currently working on...
-- President of **KUCSA**; Korea University Computer Science Academy (전산학술부)
+## I'm currently...
 - Undergraduate researcher in [**MLV Lab**](https://www.hyunwoojkim.com/home) in Korea University, advised by Professor Hyunwoo J. Kim
-- Member of **DevKor**; software development club in Korea University
 
-## I worked on ...
+## I was...
 - Co-founder of **AIKU**; AI academic club in Korea University
-- Some toy projects for assignments and practices
+- President of **KUCSA**; Korea University Computer Science Academy (전산학술부)
+- Member of **DevKor**; software development club in Korea University
   
 ## I'm interested in ... 
-- Machine learning & deep learning; I'm mainly interested in **machine learning on graphs**, **generative models**, and **multimodal AI** but not limited to them.
-- Nowadays, I'm highly interested in these keywords; (graph) foundation models, prompt tuning, knowledge graphs, diffusion models, inverse problem, molecule generation, AI4Science, etc.
-- I usually have huge interests in **multi-modal**, **efficient** and **theoretically well-defined** approaches with various deep learning topics.
-- So I'm also very enthusiastic for studying **mathematical backgrounds** with deep learning such as numerical optimization, graph theory, analysis, statistics & stochastic processes, ODEs/SDEs, etc.
+- machine learning & deep learning; I'm mainly interested in **machine learning on graphs**, **generative models**, and **bayesian optimization**.
+- Nowadays I'm very interested in **AI4Science**; especially molecule foundation models and 3D molecule generation.
+- I'm also very enthusiastic for studying **mathematical backgrounds** of deep learning such as numerical optimization, analysis, probability & statistics, stochastic processes, ODEs/SDEs, etc.
 
 ## In detail, ...
 - Ask me about anything by my e-mail. (kyle9103@gmail.com / bms2002@korea.ac.kr)
