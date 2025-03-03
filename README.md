@@ -1,27 +1,12 @@
 # 😊 Hello, I'm Minseong Bae (@KyleBae1017)!
   
-## Education
-- Graduated @ Busan Science High School
-- Junior @ Korea University, Dept. of Computer Science & Engineering
-- Double majoring @ Dept. of Mathematics
-
-## I'm currently...
-- Undergraduate researcher in [**MLV Lab**](https://www.hyunwoojkim.com/home) in Korea University, advised by Professor Hyunwoo J. Kim
-
-## I was...
-- Co-founder of **AIKU**; AI academic club in Korea University
-- President of **KUCSA**; Korea University Computer Science Academy (전산학술부)
-- Member of **DevKor**; software development club in Korea University
-  
-## I'm interested in ... 
-- machine learning & deep learning; I'm mainly interested in **machine learning on graphs**, **generative models**, and **bayesian optimization**.
-- Nowadays I'm very interested in **AI4Science**; especially molecule foundation models and 3D molecule generation.
-- I'm also very enthusiastic for studying **mathematical backgrounds** of deep learning such as numerical optimization, analysis, probability & statistics, stochastic processes, ODEs/SDEs, etc.
-
-## In detail, ...
-- Ask me about anything by my e-mail. (kyle9103@gmail.com / bms2002@korea.ac.kr)
+## About Me
+- Please refer to [my website](kylebae1017.github.io).
 - You can check my curriculum vitae in [KyleBae1017/MyCV](https://github.com/KyleBae1017/MyCV/blob/main/CV_BaeMinSeong.pdf). (Updated at 2023/6/27)
- 
+
+## Contacts
+- Ask me about anything by my e-mail. (kyle9103@gmail.com / bms2002@korea.ac.kr)
+
 ## Skill Set  
 
 ### Programming Languages
