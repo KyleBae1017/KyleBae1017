@@ -1,7 +1,7 @@
 # 😊 Hello, I'm Minseong Bae (@KyleBae1017)!
   
 ## About Me
-- Please refer to [my website](kylebae1017.github.io).
+- Please refer to [my website](https://kylebae1017.github.io).
 - You can check my curriculum vitae in [KyleBae1017/MyCV](https://github.com/KyleBae1017/MyCV/blob/main/CV_BaeMinSeong.pdf). (Updated at 2023/6/27)
 
 ## Contacts
