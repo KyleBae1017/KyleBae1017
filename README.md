@@ -4,8 +4,6 @@
 - Incoming M.S. student @ MLV Lab in KAIST. Received B.E. from Korea University.
 - Interested in geometric deep learning, multimodal large language models and generative models. Also interested in their applications to natural science. (AI4Science)
 - Please refer to [my website](https://kylebae1017.github.io) for more details. (currently I'm rebuilding my website)
-
-## Contacts
 - Ask me about anything by my e-mail. (kyle9103@gmail.com / bms2002@kaist.ac.kr)
 
 <!--
