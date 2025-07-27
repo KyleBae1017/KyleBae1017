@@ -23,7 +23,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kylebae1017&show_icons=true"/>
 -->
 
-## SNS  
+## Social 
 <div align="left">
 <a href="https://www.linkedin.com/in/minseong-bae-573745276/">
 <img src=https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a> 
